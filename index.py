@@ -40,4 +40,10 @@ def isGlobal(x):
 isGlobal('ajibola')
 
 # if statement with strings
-if 'wisdo'
+# while (value := input("Enter a number: ")) != "stop":
+#     print(f"You entered: {value}")
+
+thislist = ["apple", "banana", "cherry"]
+i = 0
+while i < len(thislist):
+  print(thislist[i])
